@@ -1,3 +1,4 @@
+# SecLog Mini Analyzer v1
 logs = [
     "LOGIN SUCCESS user=yusuf ip=10.0.0.5",
     "LOGIN FAILED user=root123 ip=10.0.0.8",
